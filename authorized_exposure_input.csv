@@ -1,0 +1,11 @@
+record_id,user_id,department,application,credential_type,exposure_source,exposure_date,evidence_reference,exposure_confirmed,privileged_account
+R-001,USR-1001,Finance,ERP Portal,password,Approved Test Feed,2026-10-10,TEST-EVID-001,yes,no
+R-002,USR-1002,HR,HR Portal,password,Approved Test Feed,2026-10-11,TEST-EVID-002,yes,no
+R-003,USR-1003,IT,VPN Portal,access_token,Approved Test Feed,2026-10-12,TEST-EVID-003,yes,yes
+R-004,USR-1004,Sales,CRM Portal,password,Approved Test Feed,2026-10-13,TEST-EVID-004,no,no
+R-005,USR-1005,Finance,Email Portal,password,Approved Test Feed,2026-10-14,TEST-EVID-005,yes,no
+R-006,USR-1006,IT,Code Repository,api_key,Approved Test Feed,2026-10-15,TEST-EVID-006,yes,yes
+R-007,USR-1007,HR,Email Portal,password,Approved Test Feed,2026-10-16,TEST-EVID-007,no,no
+R-008,USR-1008,Sales,CRM Portal,password,Approved Test Feed,2026-10-17,TEST-EVID-008,yes,no
+R-009,USR-1009,IT,VPN Portal,service_account,Approved Test Feed,2026-10-18,TEST-EVID-009,yes,yes
+R-010,USR-1010,Finance,ERP Portal,password,Approved Test Feed,2026-10-19,TEST-EVID-010,yes,no

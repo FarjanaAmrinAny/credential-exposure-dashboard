@@ -1,0 +1,9 @@
+finding_id,user_id,department,application,exposure_source,exposure_date,severity,status,credential_type,evidence_reference,privileged_account,detection_reason
+F-001,USR-1001,Finance,ERP Portal,Approved Test Feed,2026-10-10,Medium,Open,password,TEST-EVID-001,No,Confirmed password exposure requires review and rotation.
+F-002,USR-1002,HR,HR Portal,Approved Test Feed,2026-10-11,Medium,In Progress,password,TEST-EVID-002,No,Confirmed password exposure requires review and rotation.
+F-003,USR-1003,IT,VPN Portal,Approved Test Feed,2026-10-12,Critical,Open,access_token,TEST-EVID-003,Yes,Confirmed record is associated with a privileged account.
+F-005,USR-1005,Finance,Email Portal,Approved Test Feed,2026-10-14,Medium,Open,password,TEST-EVID-005,No,Confirmed password exposure requires review and rotation.
+F-006,USR-1006,IT,Code Repository,Approved Test Feed,2026-10-15,Critical,Resolved,api_key,TEST-EVID-006,Yes,Confirmed record is associated with a privileged account.
+F-008,USR-1008,Sales,CRM Portal,Approved Test Feed,2026-10-17,Medium,Open,password,TEST-EVID-008,No,Confirmed password exposure requires review and rotation.
+F-009,USR-1009,IT,VPN Portal,Approved Test Feed,2026-10-18,Critical,Resolved,service_account,TEST-EVID-009,Yes,Confirmed record is associated with a privileged account.
+F-010,USR-1010,Finance,ERP Portal,Approved Test Feed,2026-10-19,Medium,In Progress,password,TEST-EVID-010,No,Confirmed password exposure requires review and rotation.

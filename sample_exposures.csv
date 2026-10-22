@@ -1,0 +1,11 @@
+finding_id,user_id,department,application,exposure_source,exposure_date,severity,status
+F-001,USR-1001,Finance,ERP Portal,Test Dataset,2026-10-10,Critical,Open
+F-002,USR-1002,HR,HR Portal,Test Dataset,2026-10-11,High,In Progress
+F-003,USR-1003,IT,VPN Portal,Test Dataset,2026-10-12,Critical,Open
+F-004,USR-1004,Sales,CRM Portal,Test Dataset,2026-10-13,Medium,Resolved
+F-005,USR-1005,Finance,Email Portal,Test Dataset,2026-10-14,High,Open
+F-006,USR-1006,IT,Code Repository,Test Dataset,2026-10-15,Low,Resolved
+F-007,USR-1007,HR,Email Portal,Test Dataset,2026-10-16,Medium,In Progress
+F-008,USR-1008,Sales,CRM Portal,Test Dataset,2026-10-17,High,Open
+F-009,USR-1009,IT,VPN Portal,Test Dataset,2026-10-18,Medium,Resolved
+F-010,USR-1010,Finance,ERP Portal,Test Dataset,2026-10-19,Critical,In Progress
